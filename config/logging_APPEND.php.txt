@@ -1,0 +1,6 @@
+// Tambahkan pada config/logging.php
+'planner' => [
+    'driver' => 'single',
+    'path' => storage_path('logs/planner.log'),
+    'level' => 'info',
+],

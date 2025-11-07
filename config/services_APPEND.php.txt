@@ -1,0 +1,5 @@
+// Tambahkan pada config/services.php
+'ai' => [
+    'base' => env('AI_BASE_URL','http://127.0.0.1:8001'),
+    'token' => env('AI_TOKEN',''),
+],

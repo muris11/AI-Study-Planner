@@ -1,0 +1,2 @@
+// Tambahkan pada app/Http/Kernel.php -> $routeMiddleware
+'auth.session' => \App\Http\Middleware\AuthSession::class,
