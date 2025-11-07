@@ -722,7 +722,4 @@ Jika ada pertanyaan atau masalah, buat issue di repository GitHub atau hubungi d
 **Versi**: 1.0.0  
 **Framework**: Laravel 12  
 **Frontend**: Vite + Tailwind CSS  
-**Database**: MySQL/SQLite</content>
-<parameter name="filePath">c:\laragon\www\aiplanner\README.md
-#   A I - S t u d y - P l a n n e r  
- 
+**Database**: MySQL/SQLite
