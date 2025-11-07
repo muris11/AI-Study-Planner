@@ -250,23 +250,21 @@ Berikut adalah variabel environment yang digunakan dalam aplikasi:
 
 ## Screenshots
 
-_(Tambahkan screenshots aplikasi di sini)_
-
 ### Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](public/images/dashboard.png)
 
 ### Perencanaan Tugas
 
-![Planning](screenshots/planning.png)
+![Perencanaan Tugas](public/images/tambah%20tugas.png)
 
 ### Blok Studi
 
-![Study Blocks](screenshots/study-blocks.png)
+![Blok Studi](public/images/blok%20studi.png)
 
 ## Demo
 
-Untuk demo aplikasi, kunjungi: [Demo URL jika tersedia]
+Untuk demo aplikasi, kunjungi: https://studyplannerai.getmuris.my.id/
 
 Atau jalankan lokal dengan:
 
